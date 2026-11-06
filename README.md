@@ -10,7 +10,7 @@ Veridi's delivery problem is **regional, not nationwide**: only 6.8% of 96,470 d
 |---|---|
 | **Notebook (.ipynb)** | [`Veridi_Last_Mile_Audit.ipynb`](Veridi_Last_Mile_Audit.ipynb) (in this repo; open in Colab via *File → Open → GitHub* if a Colab link is required) |
 | **Notebook (HTML export, charts visible)** | [`Veridi_Last_Mile_Audit.html`](Veridi_Last_Mile_Audit.html) |
-| **Dashboard (public link)** | https://claude.ai/artifact/7Z6P4d6VG7B7Pj8pCECtz5 (source: [`dashboard.html`](dashboard.html)) |
+| **Dashboard (public link)** | https://veridi-last-mile-audit-zra4vcbmr5amtyubd7rmmd.streamlit.app/|
 | **Presentation (PDF)** | [`Veridi_Presentation.pdf`](Veridi_Presentation.pdf) · editable: [`Veridi_Presentation.pptx`](Veridi_Presentation.pptx) |
 | **Video walkthrough (optional)** | not included |
 
